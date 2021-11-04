@@ -2,7 +2,7 @@
 _(noun)_ Developer. Artist. Writer. Creator.
 
 - Computer Engineering junior
-- 1.5 years experience in UX/UI Design, lifetime experience in drawing with doodles
-- 7th Gen Vice President @ [Thinc.](https://github.com/thinc-org)
+- 2 years experience in UX/UI Design, lifetime experience in drawing with doodles
+- 7th Gen Vice President at [Thinc.](https://github.com/thinc-org), co-founder and designer of [CU Get Reg](https://cugetreg.com)
 
 Hope to fill this page with cool stuff soon! ;)
