@@ -1,7 +1,7 @@
 ### natTP /nat-ti-pii/ 
 _(noun)_ Developer. Artist. Writer. Creator.
 
-- Computer Engineering senior passionate in the intersection between art, design, media, and code
+- Computer Engineering senior aiming to explore the intersection between art, design, media, and code
 - 3 years experience in UX/UI Design, lifetime experience in drawing with doodles
 - 7th Gen Vice President at [Thinc.](https://github.com/thinc-org), co-founder and designer of [CU Get Reg](https://cugetreg.com) 
 - Designer, dev, and anything else, at [Webmaster Camp](https://github.com/WebmasterCamp)
