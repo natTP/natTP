@@ -1,4 +1,4 @@
-### natTP /nat-ti-pii/ 
+### natTP /ˈnæti pi/ 
 _(noun)_ Developer. Artist. Writer. Creator.
 
 - Computer Engineering senior aiming to explore the intersection between art, design, media, and code
