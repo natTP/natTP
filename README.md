@@ -1,5 +1,5 @@
 ### natTP /ˈnæti pi/ 
-_(noun)_ Developer. Artist. Writer. Creator.
+_(noun)_ Developer. Artist. Writer.
 
 - Computer Engineering senior aiming to explore the intersection between art, design, media, and code
 - 3 years experience in UX/UI Design, lifetime experience in drawing and doodles
